@@ -1,0 +1,22 @@
+{
+    "name": "fmizzell/rutito",
+    "type": "library",
+    "license": "GPL-3",
+    "authors": [
+        {
+            "name": "fmizzell",
+            "email": "fmizzell@1312210.no-reply.drupal.org"
+        }
+    ],
+    "require": {
+        "fmizzell/timber": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rutito\\": "src/"
+        }
+    }
+}

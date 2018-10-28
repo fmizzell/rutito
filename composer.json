@@ -2,7 +2,7 @@
     "name": "fmizzell/rutito",
     "description": "A couple of very simple routing classes. One for straight matches, and one for maching paths with wildcards.",
     "type": "library",
-    "license": "GPL-3",
+    "license": "GPL-3.0",
     "authors": [
         {
             "name": "fmizzell",
